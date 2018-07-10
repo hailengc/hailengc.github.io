@@ -4,6 +4,7 @@ title:  "Launch - Hello Jekyll!"
 date:   2018-07-10 09:42:24 +0800
 categories: [coding, misc]
 tag: [Github Pages, Jekyll, Hugo]
+description: "Jekyll, Github Pages, Hugo, Netlify "
 ---
 
 After spent one day on Jekyll - reading [doc](https://jekyllrb.com/docs/quickstart/), test on local machine - finally push up to my github pages. Fantastic!
