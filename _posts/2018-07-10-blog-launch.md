@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Launch - Hello Jekyll!"
 date:   2018-07-10 09:42:24 +0800
 categories: [coding, misc]
