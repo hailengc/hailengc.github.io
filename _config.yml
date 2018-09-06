@@ -25,6 +25,8 @@ github_username:  hailengc
 # Build settings
 markdown: kramdown
 theme: minima
+sass:
+  style: compact
 plugins:
   - jekyll-feed
 
