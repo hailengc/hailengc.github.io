@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Bubble animation with Paper.js"
 date: 2018-11-18 11:21:30 +0800
-categories: [coding, visualization]
+categories: [coding, javascript]
 tag: [Bubble animation, paper.js, visualization, react]
 description: "A simple 2D bubble animation "
 ---
