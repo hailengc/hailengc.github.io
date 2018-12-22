@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "jekyll-miniaudio"
+title: "jekyll-miniaudio, a Jekyll audio plugin"
 categories: [coding, ruby]
 tag: [Jekyll plugin, html5, audio]
 description: "Jekyll plugin, html5 audio"
