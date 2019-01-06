@@ -4,7 +4,7 @@ comments: true
 title: "BinaryHeap, a simple Ruby gem"
 categories: [coding, ruby]
 tag: [ruby]
-description: "BinaryHeap implementation in Ruby"
+description: "standard Ruby binary heap implementation."
 ---
 
 I've been using ruby for quite a long time. Ruby is really a pretty language which you would like to use it anywhere whenever you can.
