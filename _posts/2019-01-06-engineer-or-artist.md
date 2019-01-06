@@ -1,10 +1,10 @@
 ---
 layout: post
 comments: true
-title: "As a Software Engineer, or Artist"
+title: "As a Software Engineer, or an Artist"
 categories: [life]
 tag: [life]
-description: "As a software engineer, or artist"
+description: "As a software engineer, or an artist"
 ---
 
 **_"Could you please introduce yourself?"_**
