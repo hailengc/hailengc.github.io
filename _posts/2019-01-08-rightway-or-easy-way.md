@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Right way, or easy way"
+title: "The right way, or the easy way"
 categories: [life]
 tag: [life]
 ---
