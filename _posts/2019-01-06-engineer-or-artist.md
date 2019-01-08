@@ -21,10 +21,10 @@ description: "As a software engineer, or an artist"
 
 **_"And?"_**
 
-"And, games, music application, basically everything is achievable - with the programming language."
+"And, games, music applications, basically everything is achievable - just use the programming language."
 
-**"OK, I got it. Sounds like artist, you can build whatever you want - am I right?"**
+**"Wow, I got it. Sounds like artist, you can build whatever you want - am I right?"**
 
-"Yes your are. Actually a good software engineer is an artist with elegant design in both external and internal. Well, I could have told you, I'm an under-training artist."
+"Yes your are. A good software engineer is an artist with elegant design in both external and internal. Well, I could have told you, I'm an under-training artist."
 
-**_"That's cool"_**
+**_"That's cool!"_**
