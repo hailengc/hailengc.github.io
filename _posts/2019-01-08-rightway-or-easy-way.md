@@ -18,7 +18,7 @@ or
 
 > Under what circumstances will you choose the easy way over the right way?
 
-The answer is difficult when the right way is **hard** and the easy is **wrong**. Let's just talk about the things in our daily work.
+The answer is difficult when the right way is **hard** and the easy way is **wrong**. Let's just talk about things in our daily work.
 
 We know unit tests are important for software applications but we also know how time will be consumed if we have to write all the necessary tests. "Project manager requires this to be launched in one month, lets skip some unit tests for now and add them later" - such a tempting advice! I never had gone through situations with promise fullfilled - missing tests will never be added and everyone seems to **"forget about it"**.
 
